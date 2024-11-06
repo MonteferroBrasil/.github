@@ -1,5 +1,5 @@
 ---
-name: 🌱 Adicionar Feature Request 
+name: 🌱 Feature Request 
 about: 📝 Solicitacao de Recursos
 title: "🌱 { titulo da issue }"
 labels: 🌱 Feature Request
