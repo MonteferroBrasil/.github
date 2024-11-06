@@ -1,5 +1,5 @@
 ---
-name: ❓ Registro de Question  
+name: ❓Question  
 about: 🧐 Registrar uma dúvida ou questão sobre o projeto  
 title: "❓ { título da dúvida }"  
 labels: ❓ Question
