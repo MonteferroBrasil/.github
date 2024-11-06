@@ -1,5 +1,5 @@
 ---
-name: ⚙️ Tarefa de Maintenance  
+name: ⚙️Maintenance  
 about: 🔧 Registrar uma tarefa de manutenção para o sistema  
 title: "⚙️ { título da manutenção }"  
 labels: ⚙️ Maintenance  
