@@ -23,5 +23,5 @@ assignees: ''
 #### **Outras Observações:**
  - Adicione outras informações relevantes para essa questão de segurança.]
 
-### **Responsálvel pelo Report:**
+### **Responsável pelo Report:**
  - responsavel
