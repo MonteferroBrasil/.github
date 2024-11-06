@@ -1,28 +1,27 @@
 ---
-name: 🚀 Adicionar Enhancement 
-about: 📝 Solicitacao de Recursos
-title: "🚀 { titulo da issue }"
+name: 🚀 Enhancement 
+about: 🔍 Descrição e detalhes para melhorias em funcionalidades existentes  
+title: "🚀 { título da melhoria }"  
 labels: 🚀 Enhancement
-assignees: ''
+assignees: ''  
 ---
 
 # 🚀 Enhancement
 
-#### **Descrição da Enhancement:**
- - Uma descrição clara e concisa da nova funcionalidade que você gostaria de ver.
+#### **Descrição da Melhoria:**
+ - Explique qual funcionalidade atual pode ser melhorada e como.
 
-#### **Problema que a Enhancement Resolve:**
- - Explique qual problema ou necessidade essa funcionalidade resolve.
+#### **Motivação para a Melhoria:**
+ - Descreva por que essa melhoria é importante, incluindo os benefícios que ela trará.
 
-#### **Descrição da Solução Ideal:**
- - Descreva como você imagina que essa funcionalidade deve funcionar.
+#### **Solução Proposta:**
+ - Descreva a solução proposta para implementar a melhoria.
 
-#### **Alternativas Consideradas:**
- - Descreva quaisquer alternativas que você tenha considerado.
+#### **Impacto Esperado:**
+ - Detalhe como essa melhoria afetará o sistema (ex. desempenho, usabilidade, manutenção).
 
-#### **Contexto Adicional:**
- - Adicione aqui qualquer outra informação que possa ajudar na implementação dessa funcionalidade, incluindo referências, exemplos, etc.
+#### **Outras Considerações:**
+ - Inclua aqui qualquer informação adicional relevante, como referências, exemplos de uso, ou detalhes específicos.
 
-###  **Solicitantes:**
-
- - solicitante1, solicitante2,
+#### **Solicitantes:**
+ - solicitante1, solicitante2
