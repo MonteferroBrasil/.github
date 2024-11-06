@@ -26,5 +26,5 @@ assignees: ''
 #### **Informações Adicionais:**
  - Inclua qualquer outro contexto relevante sobre o problema, como ambiente de teste, versão do sistema, ou possíveis hipóteses.
 
-### **Responsálvel pelo Report:**
+### **Responsável pelo Report:**
  - responsavel
