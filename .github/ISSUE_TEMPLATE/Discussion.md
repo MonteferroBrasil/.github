@@ -8,8 +8,8 @@ assignees: ''
 
 # 💬Discussion
 
-#### **Tópico para Discussão:**
- - Descreva o assunto ou questão que gostaria de discutir.
+- #### **Tópico para Discussão:**
+  >`Descreva o assunto ou questão que gostaria de discutir.`
 
 #### **Contexto e Detalhes:**
  - Explique o contexto e por que essa discussão é necessária.
