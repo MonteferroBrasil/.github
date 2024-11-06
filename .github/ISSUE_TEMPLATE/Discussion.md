@@ -1,5 +1,5 @@
 ---
-name: 💬 Tópico para Discussion  
+name: 💬 Iniciar uma Discussão  
 about: 🗣️ Iniciar uma discussão sobre um tema relevante  
 title: "💬 { título da discussão }"  
 labels: 💬 Discussion  
