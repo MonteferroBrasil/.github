@@ -1,5 +1,5 @@
 ---
-name: 🛠️ Solicitação de Refactor  
+name: 🛠️ Refactor  
 about: ♻️ Solicitar a refatoração de código existente  
 title: "🛠️ { título da refatoração }"  
 labels: 🛠️ Refactor  
