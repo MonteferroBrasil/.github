@@ -1,5 +1,5 @@
 ---
-name: 🔒 Relatório de Security
+name: 🔒 Security
 about: ⚠️ Reportar uma vulnerabilidade de segurança no sistema  
 title: "🔒 { título da vulnerabilidade }"  
 labels: 🔒 Security
